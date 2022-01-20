@@ -1,0 +1,11 @@
+---
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/vitd6628/public_html/
+    - /bin/cp index.php $DEPLOYPATH
+    - /bin/cp about-me.php $DEPLOYPATH
+    - /bin/cp contact.php $DEPLOYPATH
+    - /bin/cp wise-words.php $DEPLOYPATH
+    - /bin/cp -R maintenance $DEPLOYPATH
+    - /bin/cp -R resources $DEPLOYPATH
