@@ -1,0 +1,47 @@
+/* responsive */
+@media only screen 
+    and (max-width: 500px){
+    body{
+        font-size: 15px;
+    }
+    
+    .website-list a{
+        margin: 0rem;
+    }
+   
+    footer p{
+        text-align: center;
+    }
+
+    .center-screen{
+        justify-content: center;
+    }
+
+    /* wise words */
+
+    .wise-words{
+        font-size: 1.75rem;
+        font-weight: 500;
+    }
+
+    /* maintenance */
+
+    .maintenance-img{
+        /* max-width: 100%!important; */
+        max-height: 400px !important;
+    }
+
+    .maintenance h1{
+        font-size: 1.5rem;
+    }
+}
+
+@media only screen 
+  and (max-width: 950px){
+    main{
+        max-width: 80%;
+    }
+    .wise img{
+        max-width: 90%;
+    }
+}
