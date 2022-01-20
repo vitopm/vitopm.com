@@ -1,5 +1,5 @@
 ---
 deployment:
 tasks:
-- export DEPLOYPATH=/home/vitd6628/public_html/
+- export DEPLOYPATH=/home/vitd6628/public_html/git
 - /bin/cp -r * $DEPLOYPATH
