@@ -80,10 +80,11 @@ main{
 .content{
     padding-top: 2rem;
 }
-.content h1{
-    font-weight: Normal;
-    font-size: 3rem;
-}
+
+/* .content-big{
+    font-weight: 100 !important;
+    font-size: 4rem;
+} */
 
 /* Wise words */
 .wise{

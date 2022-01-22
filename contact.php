@@ -24,11 +24,10 @@
     <main>
         <div class="intro">
             <h1 class="intro--name">Contact</h1>
-            <h3 class="intro--description">I also haven't decided to share my contact.</h3>
+            <h3 class="intro--description">Ways you can reach me from</h3>
         </div>
         <div class="content">
-        <h2>You may reach me here through here</h2><br>
-        <h1>E-mail: hi@vitopm.com</h1>
+            <h1 class="intro--description">E-mail: hi@vitopm.com</h1>
         </div>
 
     </main>
