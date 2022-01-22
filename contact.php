@@ -26,6 +26,7 @@
             <h1 class="intro--name">Contact</h1>
             <h3 class="intro--description">I also haven't decided to share my contact.</h3>
         </div>
+        <p>E-mail: hi@vitopm.com</p>
     </main>
     <footer>
         <p>made with love <a href="https://youtu.be/Tr97MQiqW38" target="_blank">❤️</a> by <a href="/index.html">vitopm</a></p>
