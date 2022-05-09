@@ -44,6 +44,13 @@ i hope i could manage my homework well -->
             </p>
 
             <div class="website-list">
+                <a href="machine-learning.html" target="_blank"> 
+                    <div class="website-desc">
+                        <h2>Machine Learning Project</h2>
+                        <p>A machine learning project for mid semester exam.</p>
+                    </div>
+                </a>
+
                 <a href="wise-words.php" target=""> 
                     <div class="website-desc">
                         <h2>Wise words</h2>
