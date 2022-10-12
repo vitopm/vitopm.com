@@ -44,6 +44,14 @@ i hope i could manage my homework well -->
             </p>
 
             <div class="website-list">
+
+                <a href="Resume-Parser" target="_blank"> 
+                    <div class="website-desc">
+                        <h2>Resume Parser Website Mockup</h2>
+                        <p>A website prototype of Resume Parser for NLP class. The is currently nonfunctional and was only used to represent the final result. The project was handled by me, Michelle Angela, and Cheryl Almeira.</p>
+                    </div>
+                </a>
+
                 <a href="machine-learning.html" target="_blank"> 
                     <div class="website-desc">
                         <h2>Machine Learning Project</h2>

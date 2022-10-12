@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: #EFEFEF;
+}
+
+body{
+    margin: 1.5rem 3rem 2rem 3rem;
+    font-family: "Inter", sans-serif;
+    background-color:#7882A4;
+}
+
+header{
+    border-bottom: 1px solid #EFEFEF;
+    padding: 0 0 1rem 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-bar{
+    visibility: visible;
+}
+
+li{
+    display: inline-block;
+    list-style: none;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 0.5rem;
+    
+}
+
+.heading{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+.heading h1{
+    margin: 0 0 1rem 0;
+}
+
+.heading h2{
+    margin: 0 0 0 1rem;
+}
+
+.subheading{
+    padding-bottom: 1rem;
+    flex-direction: row;
+}
+
+main{
+    display: flex;
+    flex-direction:column;
+    margin: 1.5rem 2rem auto;
+    height: 80vh;
+}
+
+a{
+    text-decoration: none;
+    transition: background-color 50ms linear;
+}
+
+a:hover{
+    background-color:#5c647c;
+    border-bottom: 5px solid #EFEFEF;
+}
+
+a:hover .card{
+    margin-bottom: -5px;
+}
+
+.big-card{
+    margin: 10% auto;
+}
+
+.card{
+    display: flex;
+    width: 50px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 3rem 0 3rem;
+}
+
+.icon{
+    height: 200px;
+    width: 200px;
+    background-color: aliceblue !important;
+}
+
+.profile{
+    display: flex;
+    justify-content: center;
+    font-size: 1.5rem;
+}
+
+footer{
+    visibility: hidden;
+    display: none;
+}
+
+input{
+    font-family: "Inter", sans-serif;
+    /* font-size: 2rem; */
+    color: black;
+}
+
+input[type="file"] {
+    font-family: "Inter", sans-serif;
+    color: #EFEFEF;
+}
+
+input[type="submit"] {
+    font-family: "Inter", sans-serif;
+}
