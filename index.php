@@ -44,11 +44,30 @@ i hope i could manage my homework well -->
             </p>
 
             <div class="website-list">
+                <a href="https://vitopm-stroke-prediction-app-dsh1w2.streamlitapp.com/" target="_blank"> 
+                    <div class="website-desc">
+                        <h2>Stroke Prediction Website</h2>
+                        <p>
+                            A final project for Machine Learning class. Using the K-Nearest Neighbor Algorithm, me and my team developed a stroke prediction app using data from Kaggle. This project is written in python and build on Streamlit framework. The prediction part is built with Sklearn.
+                        </p>
+                    </div>
+                </a>
+
+                <a href="https://vitopm-resume-parser-app-eszpgr.streamlitapp.com/" target="_blank"> 
+                    <div class="website-desc">
+                        <h2>Resume Parser Website</h2>
+                        <p>
+                            A final project for Natural Language Processing (NLP) class. Resume parser website is capable to extract information from a CV. The website is written in python and built on Streamlit framework, and the parsing part is built with NLTK and Pyresparser. The project was handled by me, Michelle Angela, and Cheryl Almeira. You can visit the prototype below.
+                        </p>
+                    </div>
+                </a>
 
                 <a href="Resume-Parser" target="_blank"> 
                     <div class="website-desc">
-                        <h2>Resume Parser Website Mockup</h2>
-                        <p>A website prototype of Resume Parser for NLP class. The is currently nonfunctional and was only used to represent the final result. The project was handled by me, Michelle Angela, and Cheryl Almeira.</p>
+                        <h2>Resume Parser Website (Prototype)</h2>
+                        <p>
+                            A website prototype of Resume Parser for NLP class. The is currently nonfunctional and was only used to represent the final result. The final version is above this post.
+                        </p>
                     </div>
                 </a>
 
