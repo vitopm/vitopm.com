@@ -25,7 +25,7 @@
     <main>
         <div class="intro">
             <h1 class="intro--name">About me</h1>
-            <h3 class="intro--description">My name is Vito, and I dont have any idea what to write here.</h3>
+            <h3 class="intro--description">You can call me Vito!.</h3>
         </div>
     </main>
     <footer>
