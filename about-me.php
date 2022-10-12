@@ -25,9 +25,19 @@
     <main>
         <div class="intro">
             <h1 class="intro--name">About me</h1>
-            <h3 class="intro--description">You can call me Vito!.</h3>
+            <h3 class="intro--description">You can call me Vito!</h3>
         </div>
+
+        <div class="content">
+            <h1 class="intro--description"></h1>
+            <p>
+                Im interested in ..
+            </p>
+        </div>
+
     </main>
+
+
     <footer>
         <p>made with love <a href="https://youtu.be/Tr97MQiqW38" target="_blank">❤️</a> by <a href="/index.html">vitopm</a></p>
     </footer>

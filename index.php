@@ -66,7 +66,7 @@ i hope i could manage my homework well -->
                     <div class="website-desc">
                         <h2>Resume Parser Website (Prototype)</h2>
                         <p>
-                            A website prototype of Resume Parser for NLP class. The is currently nonfunctional and was only used to represent the final result. The final version is above this post.
+                            A website prototype of Resume Parser for NLP class. The website is currently nonfunctional and was only used to represent the final result. The final version is above this post.
                         </p>
                     </div>
                 </a>

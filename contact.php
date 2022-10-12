@@ -24,7 +24,7 @@
     <main>
         <div class="intro">
             <h1 class="intro--name">Contact</h1>
-            <h3 class="intro--description">Ways you can reach me from</h3>
+            <h3 class="intro--description">Ways you can reach me:</h3>
         </div>
         <div class="content">
             <h1 class="intro--description">E-mail: hi@vitopm.com</h1>
