@@ -30,7 +30,7 @@ i hope i could manage my homework well -->
         </div>
 
         <div class="content">
-            <p>Welcome to my first personal website I've ever made in my entire life!&#10024🥳🎉<br>
+            <p>Welcome to my personal website!&#10024🥳🎉<br>
                 <br>
                 I started to learn making website a while ago.<br>
                 <br>
