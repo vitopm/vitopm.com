@@ -55,8 +55,17 @@ i hope i could manage my homework well -->
                 </a>
             </div>
 
+            <p>
+                Here I attached some of the screenshots from the streamlit.
+            </p> 
+            <br>
+            <p>
+                This is the front first page you'll see when you open the streamlit. There is several information you have to fill before predicting the insurance charge.
+            </p>
             <img class ="project-img" src="../resources/images/projects/insurance-prediction/Screenshot 2022-10-18 170841.jpg" alt="">
-
+            <p>
+                Here is the prediction result.
+            </p>
             <img class ="project-img" src="../resources/images/projects/insurance-prediction/Screenshot 2022-10-18 170518.jpg" alt="">
 
             <p>
