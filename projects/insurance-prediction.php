@@ -32,7 +32,7 @@ i hope i could manage my homework well -->
         <div class="content">
             
             <p>
-                This is a side project I to implement the machine learning algorithm in the notebook that I've done for machine learning project. Alternatively, if you want to see the project, you can click the link below to visit the projects.
+                This is a side project I to implement the machine learning algorithm in the notebook that I've done for machine learning project. Alternatively, you can click the link below to visit the projects.
             </p>
 
             <div class="project-website-list">
@@ -55,7 +55,9 @@ i hope i could manage my homework well -->
                 </a>
             </div>
 
-            <img class ="project-img" src="../resources/images/projects/insurance-prediction/Screenshot 2022-10-18 133439.jpg" alt="">
+            <img class ="project-img" src="../resources/images/projects/insurance-prediction/Screenshot 2022-10-18 170841.jpg" alt="">
+
+            <img class ="project-img" src="../resources/images/projects/insurance-prediction/Screenshot 2022-10-18 170518.jpg" alt="">
 
             <p>
                 It was pretty challenging because it was my first time learning Streamlit. I thought i wouldn't be able to finish this small side project, but apparently it was so fun learning new framework like Streamlit, the syntax simple and easy to learn.
