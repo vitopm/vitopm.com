@@ -30,17 +30,19 @@ i hope i could manage my homework well -->
         </div>
 
         <div class="content">
-            <p>Welcome to my personal website!&#10024🥳🎉<br>
+            <p>Welcome to my personal website!&#10024🥳🎉
                 <br>
-                I started to learn making website a while ago.<br>
                 <br>
-                There might be typos here and there or some inconsistency in the design, and that's all the more reason why I have to keep learning.😁<br>
+                I started to learn making website a while ago, so there might be typos here and there or some inconsistency in the design. That's all the more reason why I have to keep learning.😁
                 <br>
-                I'll keep you guys updated with more projects in the incoming months!<br>
                 <br>
-                Here I attached project(s) I made in the past months sorted from the most recent.<br>
+                I'll keep you guys updated with more projects in the incoming months!
                 <br>
-                Feel free to take a peek! ;)
+                <br>
+                Here I attached project(s) I made in the past months sorted from the most recent.
+                <br>
+                <br>
+                Click on them for more details!
             </p>
 
             <div class="website-list">
