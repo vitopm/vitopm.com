@@ -17,6 +17,11 @@
         justify-content: center;
     }
 
+    .content{
+        padding-left: 0rem;
+        padding-right: 0rem;
+    }
+
     /* wise words */
 
     .wise-words{
@@ -43,5 +48,10 @@
     }
     .wise img{
         max-width: 90%;
+    }
+    
+    .content{
+        padding-left: 0rem;
+        padding-right: 0rem;
     }
 }

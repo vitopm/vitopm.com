@@ -26,13 +26,21 @@ i hope i could manage my homework well -->
     <main>
         <div class="intro">
             <h1 class="intro--name">Insurance Prediction App</h1>
-            <h3 class="intro--description">First streamlit personal side project I've ever done.</h3>
+            <h3 class="intro--description"><b>The first</b> streamlit personal  project.</h3>
         </div>
 
         <div class="content">
             
             <p>
-                This is a side project I to implement the machine learning algorithm in the notebook that I've done for machine learning project. Alternatively, you can click the link below to visit the projects.
+                This was a personal project to implement a notebook that was originally made for my 4th semester mid exam. The data was an insurance data, which consisted of several columns, such as: age, sex, BMI, number of children, smoking status, region, and insurance charges.
+            </p>
+            <br>
+            <p>
+                The task was to do several processes on the data, such as data cleaning, missing data handling, visual exploratory data analysis, and machine learning model training with linear regression and prediction evaluation.
+            </p>
+            <br>
+            <p>
+                Alternatively, you can click the link below to visit the projects.
             </p>
 
             <div class="project-website-list">
@@ -87,7 +95,7 @@ i hope i could manage my homework well -->
     </main> 
 
     <footer>
-        <p>made with love <a href="https://youtu.be/Tr97MQiqW38" target="_blank">❤️</a> by <a href="/index.html">vitopm</a></p>
+        <p>made with love <a href="https://youtu.be/Tr97MQiqW38" target="_blank">❤️</a> by <a href="../index.php">vitopm</a></p>
     </footer>
 </body>
 </html>

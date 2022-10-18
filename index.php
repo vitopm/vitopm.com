@@ -36,10 +36,10 @@ i hope i could manage my homework well -->
                 I started to learn making website a while ago, so there might be typos here and there or some inconsistency in the design. That's all the more reason why I have to keep learning.😁
                 <br>
                 <br>
-                I'll keep you guys updated with more projects in the incoming months!
+                I'll keep you updated with more projects in the incoming months!
                 <br>
                 <br>
-                Here I attached project(s) I made in the past months sorted from the most recent.
+                Here I attached the projects I made in the past months sorted from the most recent.
                 <br>
                 <br>
                 Click on them for more details!
@@ -112,7 +112,7 @@ i hope i could manage my homework well -->
     </main> 
 
     <footer>
-        <p>made with love <a href="https://youtu.be/Tr97MQiqW38" target="_blank">❤️</a> by <a href="/index.html">vitopm</a></p>
+        <p>made with love <a href="https://youtu.be/Tr97MQiqW38" target="_blank">❤️</a> by <a href="index.php">vitopm</a></p>
     </footer>
 </body>
 </html>
