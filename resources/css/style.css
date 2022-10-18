@@ -192,10 +192,14 @@ footer{
 
 .project-website-list{
     /* padding-top: 2 rem; */
-    border: 1px solid whitesmoke;
+    /* border: 1px solid whitesmoke; */
 }
 
 .project-website-list a{
+    border-top: 1px solid whitesmoke;
+    border-left: 1px solid whitesmoke;
+    border-right: 1px solid whitesmoke;
+    border-bottom: 1px solid whitesmoke;
     display: block;
     margin: 2rem;
     padding: 1rem;
@@ -208,7 +212,10 @@ footer{
 
 .project-website-list a:hover{
     background-color: rgb(39, 66, 66);
-    border-bottom: 0.2rem solid whitesmoke;
+    border-top: 1px solid whitesmoke;
+    border-left: 1px solid whitesmoke;
+    border-right: 1px solid whitesmoke;
+    border-bottom: 0.25rem solid whitesmoke;
 }
 
 .project-website-list a:hover .website-desc{

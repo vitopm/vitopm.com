@@ -26,21 +26,14 @@ i hope i could manage my homework well -->
     <main>
         <div class="intro">
             <h1 class="intro--name">Insurance Prediction App</h1>
-            <h3 class="intro--description"></h3>
+            <h3 class="intro--description">First streamlit personal side project I've ever done.</h3>
         </div>
 
         <div class="content">
+            
             <p>
-                This is a side project I to implement the machine learning algorithm in the notebook that I've done for machine learning project.
+                This is a side project I to implement the machine learning algorithm in the notebook that I've done for machine learning project. Alternatively, if you want to see the project, you can click the link below to visit the projects.
             </p>
-
-            <img class ="project-img" src="../resources/images/projects/insurance-prediction/Screenshot 2022-10-18 133439.jpg" alt="">
-
-            <p>
-                It was pretty challenging because it was my first time learning Streamlit. I thought i wouldn't be able to finish this small side project, but apparently it was so fun learning new framework like Streamlit, the syntax simple and easy to learn.
-            </p>
-
-            <img class ="project-img" src="../resources/images/projects/insurance-prediction/Screenshot 2022-10-18 160517.jpg" alt="">
 
             <div class="project-website-list">
                 <a href="https://vitopm-insurance-charge-prediction-app-2kzdfm.streamlitapp.com/" target="_blank"> 
@@ -61,6 +54,23 @@ i hope i could manage my homework well -->
                     </div>
                 </a>
             </div>
+
+            <img class ="project-img" src="../resources/images/projects/insurance-prediction/Screenshot 2022-10-18 133439.jpg" alt="">
+
+            <p>
+                It was pretty challenging because it was my first time learning Streamlit. I thought i wouldn't be able to finish this small side project, but apparently it was so fun learning new framework like Streamlit, the syntax simple and easy to learn.
+            </p>
+            <br>
+            <p>
+                I attached some screenshots of my Jupyter notebook below.
+            </p>
+
+            <img class ="project-img" src="../resources/images/projects/insurance-prediction/Screenshot 2022-10-18 164855.jpg" alt="">
+            <img class ="project-img" src="../resources/images/projects/insurance-prediction/Screenshot 2022-10-18 164940.jpg" alt="">
+            <img class ="project-img" src="../resources/images/projects/insurance-prediction/Screenshot 2022-10-18 165018.jpg" alt="">
+            <img class ="project-img" src="../resources/images/projects/insurance-prediction/Screenshot 2022-10-18 165046.jpg" alt="">
+
+            
 
         </div>
     </main> 
