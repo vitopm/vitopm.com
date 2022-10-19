@@ -64,7 +64,7 @@ i hope i could manage my homework well -->
                     </div>
                 </a>
 
-                <a href="Resume-Parser" target="_blank"> 
+                <a href="projects/resume-parser-website.php" target="_blank"> 
                     <div class="website-desc">
                         <h2>Resume Parser Website (Prototype)</h2>
                         <p>

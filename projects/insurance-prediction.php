@@ -10,7 +10,7 @@ i hope i could manage my homework well -->
     <link rel="icon" href="resources/images/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="../resources/css/style.css">
     <link rel="stylesheet" href="../resources/css/responsive.css">
-    <title>vito pm</title>
+    <title>vito pm - machine learning project</title>
 </head> 
 <body>
     <header>
