@@ -75,7 +75,7 @@ i hope i could manage my homework well -->
 
                 <a href="projects/insurance-prediction.php" target="_blank"> 
                     <div class="website-desc">
-                        <h2>Machine Learning Project</h2>
+                        <h2>Mid Exam Machine Learning Project</h2>
                         <p>A machine learning project for mid semester exam.</p>
                     </div>
                 </a>
