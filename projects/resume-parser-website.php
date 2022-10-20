@@ -39,7 +39,12 @@
             </p>
             <br>
             <p>
-                Since we have to merge this project with Entrepreneurship class, we decided to create two features, these are business and personal feature. Business feature allow user to extract information from multiple resumes and add criteria to filter those resumes. Whilst the personal feature is limited extract information of a resume at a time and the ability to score the resume by counting missing data within the uploaded resume.
+                Since we have to merge this project with Entrepreneurship class, 
+                we decided to create two features, these are business and personal feature. Business feature allow user to extract information from multiple resumes and add criteria to filter those resumes. Whilst the personal feature is limited to extract information of a resume at a time and the ability to score the resume by counting missing data within the uploaded resume.
+            </p>
+            <br>
+            <p>
+                The most challenging part of this project was which core feature that a business need. We had to research whether adding that would give a value that a business need. I asked several friends who worked in human resource development division, they told me that this is a good idea, since there weren't many product like this that could help them from reading tons of resume one by one.
             </p>
             <br>
             <p>
@@ -67,7 +72,27 @@
             
             <img class ="project-img" src="../resources/images/projects/resume-parser/homepage.jpg" alt="">
             
-            
+            <p>
+                And if we choose to enter the website as a business, we have the feature to upload several resumes.
+            </p>
+
+            <img class ="project-img" src="../resources/images/projects/resume-parser/business-upload.png" alt="">
+
+            <p>
+                The following feature allows user to enter a few criterions and then filter the extracted information to get the most suitable applicant.
+            </p>
+
+            <img class ="project-img" src="../resources/images/projects/resume-parser/business-criteria.png" alt="">
+
+            <p>
+                Since we havent worked on the backend process, so the result is going to be like this.
+            </p>
+
+            <img class ="project-img" src="../resources/images/projects/resume-parser/result.png" alt="">
+
+            <p>
+                That's all for the business features, now head on to the personal features. Since we haven't done the backend, the appearance from personal feature is going to be the same as the business, the main difference is the criteria page.
+            </p>
 
             
 
