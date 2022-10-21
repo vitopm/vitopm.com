@@ -55,7 +55,7 @@ i hope i could manage my homework well -->
                     </div>
                 </a>
 
-                <a href="https://vitopm-resume-parser-app-eszpgr.streamlitapp.com/" target="_blank"> 
+                <a href="projects/resume-parser-website.php" target="_blank"> 
                     <div class="website-desc">
                         <h2>Resume Parser Website</h2>
                         <p>

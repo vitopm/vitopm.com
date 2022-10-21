@@ -52,7 +52,7 @@
             </p>
 
             <div class="project-website-list">
-                <a href="Resume-Parser" target="_blank"> 
+                <a href="https://vitopm-resume-parser-app-eszpgr.streamlitapp.com/" target="_blank"> 
                     <div class="website-desc">
                         <h2>Resume Parser Website</h2>
                         <p>
