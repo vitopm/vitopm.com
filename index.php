@@ -59,12 +59,12 @@ i hope i could manage my homework well -->
                     <div class="website-desc">
                         <h2>Resume Parser Website</h2>
                         <p>
-                            A final project for Natural Language Processing (NLP) class. Resume parser website is capable to extract information from a CV. The website is written in python and built on Streamlit framework, and the parsing part is built with NLTK and Pyresparser. The project was handled by me, Michelle Angela, and Cheryl Almeira. You can visit the prototype below.
+                            A final project for Natural Language Processing (NLP) class. Resume parser website is capable to extract information from a CV. You can visit the prototype below.
                         </p>
                     </div>
                 </a>
 
-                <a href="projects/resume-parser-website.php" target="_blank"> 
+                <a href="projects/resume-parser-website-prototype.php" target="_blank"> 
                     <div class="website-desc">
                         <h2>Resume Parser Website (Prototype)</h2>
                         <p>
