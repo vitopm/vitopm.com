@@ -44,7 +44,7 @@
             </p>
             <br>
             <p>
-                The most challenging part of this project was which core feature that a business need. We had to research whether adding that would give a value that a business need. I asked several friends who worked in human resource development division, they told me that this is a good idea, since there weren't many product like this that could help them from reading tons of resume one by one.
+                The most challenging part of this project was which core feature that a business need. We had to research whether adding that would give a value that a business need. I asked several friends who worked in human resource development division, they said this was a good idea, since there weren't many product like this that could help them from reading tons of resume one by one.
             </p>
             <br>
             <p>
