@@ -35,24 +35,27 @@
             </p>
             <br>
             <p>
-                There were several idea candidates, in the end we chose to make a web that capable of extracting information from a CV or resume. Before jumping to the backend programming, we had to make ourselves a dummy website of our idea, which we call Resume Parser.
+                There were several idea candidates, in the end we chose to make a web that capable of extracting information from a CV or resume. Before jumping to the backend programming, we had to make ourselves a website prototype for our idea, which we call Resume Parser.
             </p>
             <br>
             <p>
-                Since we have to merge this project with Entrepreneurship class, 
-                we decided to create two features, these are business and personal feature. Business feature allow user to extract information from multiple resumes and add criteria to filter those resumes. Whilst the personal feature is limited to extract information of a resume at a time and the ability to score the resume by counting missing data within the uploaded resume.
+                After we finished the website prototype, we had no idea how were` we going to accomplish this task at all. My teammates and I were flabbergasted because we didn't think that the back end part was the hardest part. None of us had any experience with python and website and how to actually connect it. After days of research and consultation, my friends and I fell into this one random video of machine learning project (yes, machine learning) in YouTube and they use something called Streamlit. 
             </p>
             <br>
             <p>
-                The most challenging part of this project was which core feature that a business need. We had to research whether adding that would give a value that a business need. I asked several friends who worked in human resource development division, they said this was a good idea, since there weren't many product like this that could help them from reading tons of resume one by one.
+                The most challenging part of this project...
+            </p>
+
+            <p>
+                The website is written in python and built on Streamlit framework, and the parsing part is built with NLTK and Pyresparser. 
             </p>
             <br>
             <p>
-                Alternatively, you can click the link below to visit the projects.
+                Alternatively, you can click the link below to visit the project and the prototype.
             </p>
 
             <div class="project-website-list">
-                <a href="https://vitopm-resume-parser-app-eszpgr.streamlitapp.com/" target="_blank"> 
+                <a href="https://vitopm-resume-parser-app-eszpgr.streamlitapp.com/" target=""> 
                     <div class="website-desc">
                         <h2>Resume Parser Website</h2>
                         <p>
@@ -60,10 +63,20 @@
                         </p>
                     </div>
                 </a>
-            </div>
 
+                <a href="projects/resume-parser-website-prototype.php" target=""> 
+                    <div class="website-desc">
+                        <h2>Resume Parser Website (Prototype)</h2>
+                        <p>
+                            Click here to view the page.
+                        </p>
+                    </div>
+                </a>
+            </div>
+            
+            
             <p>
-                Here I attached some of the screenshots from the prototype.
+                Here I attached some of the screenshots.
             </p> 
             <br>
             <p>

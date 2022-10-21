@@ -48,11 +48,11 @@
             </p>
             <br>
             <p>
-                Alternatively, you can click the link below to visit the projects.
+                Alternatively, you can click the link below to visit the project, or if you want to see the final website.
             </p>
 
             <div class="project-website-list">
-                <a href="Resume-Parser" target="_blank"> 
+                <a href="Resume-Parser" target=""> 
                     <div class="website-desc">
                         <h2>Resume Parser Website Prototype</h2>
                         <p>
@@ -60,6 +60,20 @@
                         </p>
                     </div>
                 </a>
+
+                <a href="resume-parser-website.php" target=""> 
+                    <div class="website-desc">
+                        <h2>Resume Parser Website</h2>
+                        <p>
+                            Click here to the page.
+                        </p>
+                    </div>
+                </a>
+                
+            </div>
+
+            <div class="project-website-list">
+                
             </div>
 
             <p>

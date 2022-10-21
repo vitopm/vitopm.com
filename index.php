@@ -55,7 +55,7 @@ i hope i could manage my homework well -->
                     </div>
                 </a>
 
-                <a href="projects/resume-parser-website.php" target="_blank"> 
+                <a href="projects/resume-parser-website.php" target=""> 
                     <div class="website-desc">
                         <h2>Resume Parser Website</h2>
                         <p>
@@ -64,7 +64,7 @@ i hope i could manage my homework well -->
                     </div>
                 </a>
 
-                <a href="projects/resume-parser-website-prototype.php" target="_blank"> 
+                <a href="projects/resume-parser-website-prototype.php" target=""> 
                     <div class="website-desc">
                         <h2>Resume Parser Website (Prototype)</h2>
                         <p>
@@ -73,7 +73,7 @@ i hope i could manage my homework well -->
                     </div>
                 </a>
 
-                <a href="projects/insurance-prediction.php" target="_blank"> 
+                <a href="projects/insurance-prediction.php" target=""> 
                     <div class="website-desc">
                         <h2>Mid Exam Machine Learning Project</h2>
                         <p>A machine learning project for mid semester exam.</p>
