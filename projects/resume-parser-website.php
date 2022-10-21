@@ -39,9 +39,12 @@
             </p>
             <br>
             <p>
-                After we finished the website prototype, we had no idea how were` we going to accomplish this task at all. My teammates and I were flabbergasted because we didn't think that the back end part was the hardest part. None of us had any experience with python and website and how to actually connect it. After days of research and consultation, my friends and I fell into this one random video of machine learning project (yes, machine learning) in YouTube and they use something called Streamlit. 
+                After we finished the website prototype, we had no idea how were` we going to accomplish this task at all. My teammates and I were flabbergasted because we didn't think that the back end part was the hardest part. None of us had any experience with python and website and how to actually connect it. After days of research and consultation, my friends and I fell into this one random video of machine learning project (yes, machine learning) in YouTube and they use something called <a href="https://streamlit.io/" target="_blank"><b>Streamlit</b></a>.
             </p>
             <br>
+            <p>
+                Streamlit saves us a ton of time to deploy our project. It allows us to create a python based project into website without any more code, no need for HTML, CSS, or even PHP to create the website.
+            </p>
             <p>
                 The most challenging part of this project...
             </p>
@@ -55,7 +58,7 @@
             </p>
 
             <div class="project-website-list">
-                <a href="https://vitopm-resume-parser-app-eszpgr.streamlitapp.com/" target=""> 
+                <a href="https://vitopm-resume-parser-app-eszpgr.streamlitapp.com/" target="_blank"> 
                     <div class="website-desc">
                         <h2>Resume Parser Website</h2>
                         <p>
@@ -80,34 +83,26 @@
             </p> 
             <br>
             <p>
-                This is the homepage where user can choose to access the website as a business or as a personal user.
+                This is the first page. It contains an explanation on how to use the app.
             </p>
             
-            <img class ="project-img" src="../resources/images/projects/resume-parser/homepage.jpg" alt="">
+            <img class ="project-img" src="../resources/images/projects/resume-parser-website/resume-parser-homepage.png" alt="">
             
             <p>
-                And if we choose to enter the website as a business, we have the feature to upload several resumes.
+                We can navigate to another page by clicking the options.
             </p>
 
-            <img class ="project-img" src="../resources/images/projects/resume-parser/business-upload.png" alt="">
+            <img class ="project-img" src="../resources/images/projects/resume-parser-website/resume-parser-homepage-options.jpg" alt="">
 
             <p>
-                The following feature allows user to enter a few criterions and then filter the extracted information to get the most suitable applicant.
+                Moving on to Parse my resume menu. Here user can upload their resume in pdf file format, and then the website will give result of the data extraction below the upload menu.
             </p>
 
-            <img class ="project-img" src="../resources/images/projects/resume-parser/business-criteria.png" alt="">
-
-            <p>
-                Since we havent worked on the backend process, so the result is going to be like this.
-            </p>
-
-            <img class ="project-img" src="../resources/images/projects/resume-parser/result.png" alt="">
-
-            <p>
-                That's all for the business features, now head on to the personal features. Since we haven't done the backend, the appearance from personal feature is going to be the same as the business, the main difference is the criteria page.
-            </p>
-
+            <img class ="project-img" src="../resources/images/projects/resume-parser-website/resume-parser-parse.png" alt="">
             
+            <p>
+                In the end, we enjoyed the process of making our project, although the 
+            </p>
 
         </div>
     </main> 
