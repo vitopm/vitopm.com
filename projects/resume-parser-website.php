@@ -43,14 +43,23 @@
             </p>
             <br>
             <p>
-                Streamlit saves us a ton of time to deploy our project. It allows us to create a python based project into website without any more code, no need for HTML, CSS, or even PHP to create the website.
+                Streamlit saves us a ton of time to deploy our project. It allows us to create a python based project into website without any more code, no need for HTML, CSS, or even PHP to create the website. So the next step was to learn how to use it and to sure that we can make it happen in accordance with our prototype. I learned how to use Streamlit by turning <a href="insurance-prediction.php"><b>my machine learning mid exam project</b></a> into Strealit website, and deployed it on Streamlit Cloud. So that was one of the challenges we had to overcome.
             </p>
+            <br>
             <p>
-                The most challenging part of this project...
+                The most challenging part of this project was to find resources that could help us parse the resume. Apparently, there was a handful of resources that actually parse resume in PDF format and in DOCX format. The file type wasn't the issue, the real issue was the python package dependency and versions incompatibility. The resources we found were a few years old, and there were different versions of package that have been going around, so several source codes that we tried didn't work at all.
             </p>
-
+            <br>
             <p>
-                The website is written in python and built on Streamlit framework, and the parsing part is built with NLTK and Pyresparser. 
+                Until a few days later we found a package that specifically deal with resume parsing, made by <a href="https://omkarpathak.in/pyresparser/" target="_blank"><b>Omkarpathak</b></a> called as Pyresparser. Pyresparser uses SpaCy and NLTK for NLP operation. SpaCy is used to recognize words within the resume and call it as entity, therefore we need a model to be trained with many annotated resume samples, so that it could predict which entity followed with certain information. This process is called as Named Entity Recognition (NER).
+            </p>
+            <br>
+            <p>
+                Afterward, we finished the back end to process the uploaded resume and tidied up the extracted information. Finally we work on the front end  using Streamlit and deploy it on Streamlit Cloud.
+            </p>
+            <br>
+            <p>
+                Since SpaCy NER model needs to be trained, Omkarpathak didn't state any information regarding the dataset that he used to train the SpaCy model to recognize the entity within the resume. Therefore, the result varies between one resume and another.  
             </p>
             <br>
             <p>
@@ -101,7 +110,7 @@
             <img class ="project-img" src="../resources/images/projects/resume-parser-website/resume-parser-parse.png" alt="">
             
             <p>
-                In the end, we enjoyed the process of making our project, although the 
+                In the end, we enjoyed the process of making our project, although the result can sometimes is far from the actual data on the resume. For me personally, i think this project is a monumental milestone for me and the team. I'm hoping we could polish this project further in the future, not to just leave it as it is, but to make this actually useful for others who need this.
             </p>
 
         </div>
