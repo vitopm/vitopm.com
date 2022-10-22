@@ -50,7 +50,7 @@ i hope i could manage my homework well -->
                     <div class="website-desc">
                         <h2>Stroke Prediction Website</h2>
                         <p>
-                            A final project for Machine Learning class. Using the K-Nearest Neighbor Algorithm, me and my team developed a stroke prediction app using data from Kaggle. This project is written in python and build on Streamlit framework. The prediction part is built with Sklearn.
+                            A final project for Machine Learning (ML) class. Using the K-Nearest Neighbor Algorithm. Our team developed a stroke prediction app using data from Kaggle. This project is written in python and build on Streamlit framework.
                         </p>
                     </div>
                 </a>
