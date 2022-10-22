@@ -29,30 +29,31 @@
         </div>
 
         <div class="content">
-            
             <p>
-                In semester 4, we were given a project from Natural Language Processing (NLP) class and splitted into several group members. The group members were me, Cheryl Almeira, and Michelle Angela. 
+            In 4th semester, we a group project for Machine Learning. The group members were me, Cheryl Almeira, and Michelle Angela. The main theme of this project is to utilize machine learning methods to predict anything based on the dataset that we use. We chose to predict stroke based on  <a href="https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset" target="_blank"><b>this dataset provided on Kaggle.</b></a>
             </p>
             <br>
             <p>
-                There were several idea candidates, in the end we chose to make a web that capable of extracting information from a CV or resume. Before jumping to the backend programming, we had to make ourselves a dummy website of our idea, which we call Resume Parser.
+                The next step was to choose which machine learning method to pick. Speaking of stroke prediction, there is only two options, stroke or not stroke. Therefore our task was binary classification, because we had two outcomes that we have to predict.
             </p>
             <br>
             <p>
-                Since we have to merge this project with Entrepreneurship class, 
-                we decided to create two features, these are business and personal feature. Business feature allow user to extract information from multiple resumes and add criteria to filter those resumes. Whilst the personal feature is limited to extract information of a resume at a time and the ability to score the resume by counting missing data within the uploaded resume.
+                There was a list of several methods allowed to be used, and each method can only be assigned to exactly one group. Since our task was binary classification, we decided to pick K-Nearest Neighbor (KNN) method. KNN works by calculating N-nearest neighbor. If we choose 5 nearest neighbors, that means a data is classified into the closest 5 nearest neighbors. It was simple, we thought, <em> until we looked further into our dataset</em>.
             </p>
             <br>
             <p>
-                The most challenging part of this project was which core feature that a business need. We had to research whether adding that would give a value that a business need. I asked several friends who worked in human resource development division, they said this was a good idea, since there weren't many product like this that could help them from reading tons of resume one by one.
+                We thought our stroke dataset was good, since the rating of usability was 10/10. When we dived even further into data preprocessing and data exploratory, something didn't add up. Apparently, the class with the highest number belongs to non-stroke, which was 95.1%, that left stroke class data to only 4.9%! This imbalance of data causes a tendency to only highly accurately predict one class but not the other, and this is something we must avoid. We found a way to handle data imbalance by using SMOTE (Synthetic Minority Over-Sampling Technique). 
+            </p>
+            <br>
+            <p>SMOTE works by creating synthetic data over the original data of the less frequent class, so that the machine learning model could be more accurate. SMOTE helped us to increase the performance of prediction by looking at the number of precision and recall. Although the increase was only a few percent, it was better than no progress at all.
             </p>
             <br>
             <p>
-                Alternatively, you can click the link below to visit the project, or if you want to see the final website.
+                Alternatively, you can click the link below to visit the project.
             </p>
 
             <div class="project-website-list">
-                <a href="https://vitopm-stroke-prediction-app-dsh1w2.streamlitapp.com/" target=""> 
+                <a href="https://vitopm-stroke-prediction-app-dsh1w2.streamlitapp.com/" target="_blank"> 
                     <div class="website-desc">
                         <h2>Stroke Prediction Website</h2>
                         <p>
@@ -60,11 +61,6 @@
                         </p>
                     </div>
                 </a>
-                
-            </div>
-
-            <div class="project-website-list">
-                
             </div>
 
             <p>
@@ -72,35 +68,32 @@
             </p> 
             <br>
             <p>
-                This is the homepage where user can choose to access the website as a business or as a personal user.
+                This is the homepage where user can read information about stroke.
             </p>
             
-            <img class ="project-img" src="../resources/images/projects/resume-parser/homepage.jpg" alt="">
+            <img class ="project-img" src="../resources/images/projects/stroke-prediction/homepage.png" alt="">
             
             <p>
-                And if we choose to enter the website as a business, we have the feature to upload several resumes.
+                Afterward we can navigate to our stroke prediction by filling the information about our health condition.
             </p>
 
-            <img class ="project-img" src="../resources/images/projects/resume-parser/business-upload.png" alt="">
+            <img class ="project-img" src="../resources/images/projects/stroke-prediction/predict.png" alt="">
 
             <p>
-                The following feature allows user to enter a few criterions and then filter the extracted information to get the most suitable applicant.
+                You can view how we process the dataset that we use to train our machine learning model and use it to predict stroke in the exploratory data analysis page.
             </p>
 
-            <img class ="project-img" src="../resources/images/projects/resume-parser/business-criteria.png" alt="">
+            <img class ="project-img" src="../resources/images/projects/stroke-prediction/exploratory-data-analysis.png" alt="">
 
             <p>
-                Since we havent worked on the backend process, so the result is going to be like this.
+                We also provide information about the accuracy of our KNN model.
             </p>
 
-            <img class ="project-img" src="../resources/images/projects/resume-parser/result.png" alt="">
+            <img class ="project-img" src="../resources/images/projects/stroke-prediction/evaluation-metrics.png" alt="">
 
             <p>
-                That's all for the business features, now head on to the personal features. Since we haven't done the backend, the appearance from personal feature is going to be the same as the business, the main difference is the criteria page.
+                The project was fun, although we faced several difficulties, we learned a lot along the way, oversampling is one of them. The data available in the real world situation would be a lot messier, imbalances here and there. But with the help of machine learning, we could overcome these problems and predict something that our brain couldn't. I hope we can improvise the quality of less frequent class in our stroke prediction, so that the application can be actually useful one day.
             </p>
-
-            
-
         </div>
     </main> 
 
