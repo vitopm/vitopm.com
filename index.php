@@ -26,7 +26,7 @@ i hope i could manage my homework well -->
     <main>
         <div class="intro">
             <h1 class="intro--name">Vito Minardi</h1>
-            <h3 class="intro--description">Computer science student based in Malang.</h3>
+            <h3 class="intro--description">Computer science student based in Jakarta.</h3>
         </div>
 
         <div class="content">
