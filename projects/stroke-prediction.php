@@ -23,9 +23,9 @@
 
     <main>
         <div class="intro">
-            <h1 class="intro--name">Resume Parser Website Prototype</h1>
+            <h1 class="intro--name">Stroke Prediction Website</h1>
 
-            <h3 class="intro--description">A prototype for NLP project.</h3>
+            <h3 class="intro--description">Final project for Machine Learning class.</h3>
         </div>
 
         <div class="content">
@@ -52,20 +52,11 @@
             </p>
 
             <div class="project-website-list">
-                <a href="Resume-Parser" target=""> 
+                <a href="https://vitopm-stroke-prediction-app-dsh1w2.streamlitapp.com/" target=""> 
                     <div class="website-desc">
-                        <h2>Resume Parser Website Prototype</h2>
+                        <h2>Stroke Prediction Website</h2>
                         <p>
-                            Click here to see the app.
-                        </p>
-                    </div>
-                </a>
-
-                <a href="resume-parser-website.php" target=""> 
-                    <div class="website-desc">
-                        <h2>Resume Parser Website</h2>
-                        <p>
-                            Click here to the page.
+                            Click here to see the website.
                         </p>
                     </div>
                 </a>
@@ -77,7 +68,7 @@
             </div>
 
             <p>
-                Here I attached some of the screenshots from the prototype.
+                Here I attached some of the screenshots from the website.
             </p> 
             <br>
             <p>

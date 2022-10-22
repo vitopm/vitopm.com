@@ -46,7 +46,7 @@ i hope i could manage my homework well -->
             </p>
 
             <div class="website-list">
-                <a href="https://vitopm-stroke-prediction-app-dsh1w2.streamlitapp.com/" target="_blank"> 
+                <a href="projects/stroke-prediction.php" target=""> 
                     <div class="website-desc">
                         <h2>Stroke Prediction Website</h2>
                         <p>
@@ -69,6 +69,15 @@ i hope i could manage my homework well -->
                         <h2>Resume Parser Website (Prototype)</h2>
                         <p>
                             A website prototype of Resume Parser for NLP class. The website is currently nonfunctional and was only used to represent the final result. The final version is above this post.
+                        </p>
+                    </div>
+                </a>
+
+                <a href="projects/mulsys-lec-flowchart" target="_blank"> 
+                    <div class="website-desc">
+                        <h2>Flowchart Tutorial Website</h2>
+                        <p>
+                           A project from Multimedia class to make a basic flowchart tutorial in the form of website and short video.
                         </p>
                     </div>
                 </a>
