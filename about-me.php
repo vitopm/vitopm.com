@@ -31,7 +31,7 @@
         <div class="content">
             <h1 class="intro--description"></h1>
             <p>
-                Im interested in ..
+                I am a Computer Science student, currently studying at Bina
             </p>
         </div>
 
