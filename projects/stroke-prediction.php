@@ -92,7 +92,7 @@
             <img class ="project-img" src="../resources/images/projects/stroke-prediction/evaluation-metrics.png" alt="">
 
             <p>
-                <em>The project was fun </em>, although we faced several difficulties, we learned a lot along the way, oversampling is one of them. The data available in the real world situation would be a lot messier, imbalances here and there. But with the help of machine learning, we could overcome these problems and predict something that our brain couldn't. I hope we can improvise the quality of the less frequent class in our stroke prediction, so that the application can be actually useful one day.
+                <em>The project was fun </em>, although we faced several difficulties, we learned a lot along the way, oversampling is one of them. The data available in the real world situation would be a lot messier, imbalances here and there. But with the help of machine learning, we could overcome these problems and predict something that our brain couldn't. I hope we can improve the quality of the less frequent class in our stroke prediction, so that the application can be actually useful one day.
             </p>
         </div>
     </main> 
