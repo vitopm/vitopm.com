@@ -30,7 +30,7 @@
 
         <div class="content">
             <p>
-            In 4th semester, we a group project for Machine Learning. The group members were me, Cheryl Almeira, and Michelle Angela. The main theme of this project is to utilize machine learning methods to predict anything based on the dataset that we use. We chose to predict stroke based on  <a href="https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset" target="_blank"><b>this dataset provided on Kaggle.</b></a>
+            In 4th semester, we have a group project for Machine Learning. The group members were me, Cheryl Almeira, and Michelle Angela. The main theme of this project is to utilize machine learning methods to predict anything based on the dataset that we use. We chose to predict stroke based on  <a href="https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset" target="_blank"><b>this dataset provided on Kaggle.</b></a>
             </p>
             <br>
             <p>
