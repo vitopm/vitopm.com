@@ -31,9 +31,37 @@
         <div class="content">
             <h1 class="intro--description"></h1>
             <p>
-                I am a Computer Science student, currently studying at Bina
+                I am a third year Computer Science student, currently studying at Bina Nusantara University.
+                <br><br>
+                Starting from the end of my second year, I'm focusing on Intelligent System, where we learn about the wonderful and crazy (in a good way) ability that machine can do to mimic our brain, such as Machine Learning and Natural Language Processing.
+                <br><br>
+                Just in this semester I get the chance to learn something even cooler, which are Computer Vision and Deep Learning! I'm expecting to uncover many interesting capability that our collective knowledge can do to build such program that could make decision just like we could, or even predict something that we, with our human brain, couldn't do.
+                <br><br>
+                Outside of uni, I do something that's quite far away from my keyboard. I loovee to play guitar, the classical one, and I have been playing them since middle school. If I have friends coming over at my place, we'll sing every song we know until we late at night. 
+                <br><br>
+                Also, I read books in my free time. The book I'm currently reading is Atomic Habits by James Clear. It's such a practical and fun book to read!
             </p>
         </div>
+
+        <div class="content">
+            <h1>Skillset</h2>
+            <br>
+            <h2>Web development</h2>
+            <p>HTML, CSS, PHP</p>
+            <br>
+            <h2>Machine Learning, Natural Language Processing</h2>
+            <p>Python</p>
+            <br>
+            <h2>Python Framework</h2>
+            <p>Streamlit</p>      
+            <br>
+            <h2>Server-side Framework</h2>
+            <p>Laravel (learning)</p>
+            <br>
+            <h2>Others</h2>
+            <p>Git, Linux (basic command-line operations), SQL, C</p>
+        </div>
+
 
     </main>
 
