@@ -68,6 +68,12 @@
             <p>Git, Linux (basic command-line operations), SQL, C</p>
         </div>
 
+        <div class="content">
+            <h2>Get in touch!</h2>
+            <br>
+            <p><a href="contact.php">Click here to get my contact</a></p>
+        </div>
+
 
     </main>
 
