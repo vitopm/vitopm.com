@@ -8,7 +8,7 @@
     <link rel="icon" href="resources/images/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="resources/css/style.css">
     <link rel="stylesheet" href="resources/css/responsive.css">
-    <title>vito pm</title>
+    <title>vito pm - projects</title>
 </head> 
 <body>
     <header>
@@ -24,19 +24,11 @@
     <main>
         <div class="intro">
             <h1 class="intro--name">Projects</h1>
-            <h3 class="intro--description">Computer science student based in Jakarta.</h3>
+            <h3 class="intro--description">All of my projects.</h3>
         </div>
 
         <div class="content">
-            <p>Welcome to my personal website!&#10024🥳🎉
-                <br>
-                <br>
-                I started to learn making website a while ago, so there might be typos here and there, or inconsistency in the design. That's all the more reason why I have to keep learning. I'll keep you updated with more projects in the incoming months! Here I attached the projects I made in the past months sorted from the most recent.
-                <br><br>
-                Click on them for more details!
-            </p>
-
-            <div class="website-list">
+            <div class="website-list">  
                 <a href="projects/stroke-prediction.php" target=""> 
                     <div class="website-desc">
                         <h2>Stroke Prediction Website</h2>

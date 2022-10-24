@@ -27,7 +27,11 @@
             <h3 class="intro--description">Ways you can reach me:</h3>
         </div>
         <div class="content">
-            <h1 class="intro--description">E-mail: hi@vitopm.com</h1>
+            <h1 class="intro--description"><a href = "mailto: vito.minardi@binus.ac.id">E-mail</a></h1>
+            <br>
+            <h1 class="intro--description"><a href="https://www.linkedin.com/in/vitopm/" target="_blank"> LinkedIn</a></h1>
+            <br>
+            <h1 class="intro--description"><a href="https://github.com/vitopm" target="_blank"> GitHub</a></h1>
         </div>
 
     </main>
