@@ -47,10 +47,16 @@
             <h1>Skillset</h2>
             <br>
             <h2>Web development</h2>
-            <p>HTML, CSS, PHP</p>
+            <p>HTML, CSS, PHP (learning)</p>
             <br>
-            <h2>Machine Learning, Natural Language Processing</h2>
-            <p>Python</p>
+            <h2>Machine learning library (learning)</h2>
+            <p>Numpy, Matplotlib, Seaborn, Pandas, Sklearn</p>
+            <br>
+            <h2>Natural language processing library (learning)</h2>
+            <p>NLTK, SpaCy</p>
+            <br>
+            <h2>Computer vision library (learning)</h2>
+            <p>OpenCV</p>
             <br>
             <h2>Python Framework</h2>
             <p>Streamlit</p>      
