@@ -18,7 +18,7 @@ i hope i could manage my homework well -->
         <div class="nav-bar">
             <ul>
                 <li><a href="about-me.php">about</a></li>
-                <li><a href="contact.php">contact</a></li>
+                <li><a href="projects.php">projects</a></li>
             </ul>
         </div>
     </header>
@@ -33,12 +33,16 @@ i hope i could manage my homework well -->
             <p>Welcome to my personal website!&#10024🥳🎉
                 <br>
                 <br>
-                I started to learn making website a while ago, so there might be typos here and there, or inconsistency in the design. That's all the more reason why I have to keep learning. I'll keep you updated with more projects in the incoming months! Here I attached the projects I made in the past months sorted from the most recent.
+                I started to learn making website a while ago, so there might be typos here and there, or inconsistency in the design. 
+                <br><br>
+                That's all the more reason why I have to keep learning. 
+                <br><br>
+                I'll keep you updated with more projects in the incoming months! Here I attached the projects I made in the past months sorted from the most recent.
                 <br><br>
                 Click on them for more details!
             </p>
 
-            <div class="website-list">
+            <!-- <div class="website-list">
                 <a href="projects/stroke-prediction.php" target=""> 
                     <div class="website-desc">
                         <h2>Stroke Prediction Website</h2>
@@ -110,7 +114,7 @@ i hope i could manage my homework well -->
                     </div>
                 </a>
             </div>
-        </div>
+        </div> -->
     </main> 
 
     <footer>

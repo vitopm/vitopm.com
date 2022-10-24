@@ -26,7 +26,7 @@
         <div class="nav-bar">
             <ul>
                 <li><a href="about-me.php">about</a></li>
-                <li><a href="contact.php">contact</a></li>
+                <li><a href="projects.php">projects</a></li>
             </ul>
         </div>
     </header>

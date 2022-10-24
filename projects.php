@@ -1,5 +1,3 @@
-<!-- it has been months since the last time i touched this website, 
-i hope i could manage my homework well -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,14 +16,14 @@ i hope i could manage my homework well -->
         <div class="nav-bar">
             <ul>
                 <li><a href="about-me.php">about</a></li>
-                <li><a href="contact.php">contact</a></li>
+                <li><a href="projects.php">projects</a></li>
             </ul>
         </div>
     </header>
 
     <main>
         <div class="intro">
-            <h1 class="intro--name">Vito Minardi</h1>
+            <h1 class="intro--name">Projects</h1>
             <h3 class="intro--description">Computer science student based in Jakarta.</h3>
         </div>
 
