@@ -28,7 +28,15 @@
         </div>
 
         <div class="content">
-            <div class="website-list">  
+            <div class="website-list">
+            <a href="wp/docatto" target="_blank"> 
+                    <div class="website-desc">
+                        <h2>Docatto School</h2>
+                        <p>
+                            A mini project to implement basic Laravel method such as blade template, blade directive, and web routing.
+                        </p>
+                    </div>
+                </a>  
                 <a href="projects/stroke-prediction.php" target=""> 
                     <div class="website-desc">
                         <h2>Stroke Prediction Website</h2>
