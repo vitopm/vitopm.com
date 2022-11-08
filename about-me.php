@@ -24,7 +24,7 @@
     <main>
         <div class="intro">
             <h1 class="intro--name">About me</h1>
-            <h3 class="intro--description">You can call me Vito!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"></h3>
+            <h3 class="intro--description">You can call me Vito!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="15px"></h3>
         </div>
 
         <div class="content">
